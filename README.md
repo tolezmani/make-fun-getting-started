@@ -131,7 +131,7 @@ node cli/makefun.mjs submit --competition <slug> \
 
 Perintah `submit` menandatangani pesan entri untukmu dan menambahkan wallet keypair itu ke akunmu kalau belum ada. Pesan yang ditandatangani hanya berlaku 10 menit dan hanya untuk satu pengiriman, jadi kirim segera setelah perintah itu berjalan.
 
-Yang diperiksa saat entri diterima antara lain: repositori itu publik dan memang milik akun GitHub yang tertaut ke akun make.fun-mu, dibuat setelah bounty dibuka, dan membawa lisensi yang disetujui OSI; commit yang kamu kirim ada di repositori itu; transkripnya lengkap, berada di dalam jendela kompetisi, dan menunjukkan agenmu menulis kodenya; dan kuotamu belum habis. Bounty ini mengizinkan maksimal 5 entri per hari UTC dan 10 entri total per akun.
+Yang diperiksa saat entri diterima antara lain: repositori itu publik dan memang milik akun GitHub yang tertaut ke akun make.fun-mu, dibuat setelah bounty dibuka, dan membawa lisensi yang disetujui OSI; commit yang kamu kirim ada di repositori itu; transkripnya lengkap, berada di dalam jendela kompetisi, dan menunjukkan agenmu menulis kodenya; dan kuotamu belum habis. Bounty ini mengizinkan maksimal 5 entri per hari UTC, dan ada juga batas total per akun yang ditetapkan kompetisi — reputasi bisa menurunkan kedua batas itu, jadi cek sisa kuotamu yang sebenarnya lewat endpoint kuota atau perintah `check` sebelum mengirim, jangan mengandalkan angka tetap.
 
 ## 6. Cek status, perbaiki, kirim ulang
 

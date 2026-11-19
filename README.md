@@ -178,6 +178,7 @@ Run through this list before every submission, so entry quota is not wasted:
 - [ ] Entry runs to completion on your own computer (the `grade-local` command, if available).
 - [ ] The transcript of the session that wrote the code is bundled, and the local `check` reports 0 failures.
 - [ ] Repository is public, owned by the linked GitHub account, created after the bounty opened, and carries an OSI license.
+- [ ] The LICENSE file carries an `SPDX-License-Identifier: MIT` line.
 - [ ] Claim code from any previous submission (if any) saved.
 
 ## Time-saving tips
@@ -202,6 +203,9 @@ Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, opencode, Cline, Aider, 
 
 **Why was my entry rejected even though the code runs?**
 Usually because of the transcript: the session that wrote the code was not included in the bundle, the session started before the bounty opened, or the code was pasted into the session instead of written by the agent inside it. The entry status names the failed check and its fix.
+
+**What happens if my entry is refused?**
+The entry status tells you exactly which check failed and why. Fix that point and submit again before the deadline — entries close on 2026-11-21 at 10:30 UTC.
 
 **When do results come out?**
 Every bounty announces its results date on its page. Final judging runs after the deadline, and results are published once all final checks are complete.

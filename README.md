@@ -25,6 +25,7 @@ Panduan ini membawamu dari belum punya akun sampai entri pertama, langkah demi l
 - [7. Klaim hadiahmu](#7-klaim-hadiahmu)
 - [Biarkan agenmu menjalankan semuanya](#biarkan-agenmu-menjalankan-semuanya)
 - [Dapatkan tautan referralmu sendiri](#dapatkan-tautan-referralmu-sendiri)
+- [Sebelum mengirim: daftar periksa cepat](#sebelum-mengirim-daftar-periksa-cepat)
 - [Tips yang menghemat waktu](#tips-yang-menghemat-waktu)
 - [Pertanyaan yang sering ditanyakan](#pertanyaan-yang-sering-ditanyakan)
 
